@@ -1,3 +1,23 @@
-Click this link to open topics covered sheet:
+Topics Covered so far:
 
-https://docs.google.com/document/d/1WCcoPhP0MSpbys6SGxJoZsxw2gK8xZNhaK0g39wszbw/edit?usp=sharing
+----------- Day 1 (19 Dec 2023) -----------
+
+1. Language Fundamentals
+    - Introduction to C++
+    - Flowcharts & Pseudocode
+    - Basics of C++
+    - Conditional & Control Statements
+    - All about Functions
+
+----------- Day 2 (20 Dec 2023) -----------
+
+2. Time & Space Complexity
+    - Why we need this?
+    - Asymptotic Analysis
+    - Types of Time Complexity and their Notations
+    - What is Space Complexity?
+
+3. Introduction to Arrays
+    - What are Arrays?
+    - How to store data in Arrays?
+    - and much more about Arrays

@@ -1,3 +1,28 @@
-Click this link to open practiced questios sheet:
-
+Click this link to open practiced questions sheet:
 https://docs.google.com/spreadsheets/d/1k7N2ja4EBMIl5tBMSKaEumVF1dzMHLA3qxclPyMXqNw/edit?usp=sharing
+
+----------- Day 1 (19 Dec 2023) ------------
+
+1. Language Fundamentals
+    - Check Odd / Even
+    - Vowel / Consonant
+    - Print Weekdays with numbers
+    - Print numbers from 1 to need
+    - Print square of numbers from 1 to n
+    - Print numbers from n to 1
+    - Print alphabets from 'a' to 'z'
+    - Print multiplication table of n
+    - Calculate power of a number
+    - Sum of n Natural numbers
+    - Sum of sqaure of n Natural numbers
+    - Factorial of a number
+    - Check prime / not prime
+    - Print nth fibonacci number
+
+2. Patterns 1 - (which Patterns? can Check in the above mentioned sheet)
+
+------------ Day 2 (20 Dec 2023) --------------
+
+3. Patterns 2 - (which Patterns? can Check in the above mentioned sheet)
+
+4. Patterns 3 - (which Patterns? can check in the above mentioned sheet)
