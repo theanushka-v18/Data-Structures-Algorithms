@@ -21,3 +21,14 @@ Topics Covered so far:
     - What are Arrays?
     - How to store data in Arrays?
     - and much more about Arrays
+
+----------- Day 3 (21 Dec 2023) -----------
+
+4. Practiced Array Questions
+
+5. Sorting - I
+    - Selection Sort
+
+6. Number System
+    - Binary to Decimal
+    - Decimal to Binary
