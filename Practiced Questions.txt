@@ -26,3 +26,23 @@ https://docs.google.com/spreadsheets/d/1k7N2ja4EBMIl5tBMSKaEumVF1dzMHLA3qxclPyMX
 3. Patterns 2 - (which Patterns? can Check in the above mentioned sheet)
 
 4. Patterns 3 - (which Patterns? can check in the above mentioned sheet)
+
+------------ Day 3 (21 Dec 2023) --------------
+
+5. Practiced Array Questions
+    - Print all elements of the array
+    - Search element in an array
+    - Find largest & smallest element in an array
+    - Sum of all elements of the array
+    - Find second largest & second smallest element in an array
+    - Reverse array
+    - Missing number
+    - Cyclically rotate an array by one
+    - Last index of one
+    - Product of maximum in first array and minimum in second
+    - Index of first 1 in a sorted array of 0s and 1s
+    - Find the fine
+    - Fighting the darkness
+
+6. Sorting I
+    - Selection sort
