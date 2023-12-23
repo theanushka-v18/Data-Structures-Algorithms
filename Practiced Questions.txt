@@ -46,3 +46,16 @@ https://docs.google.com/spreadsheets/d/1k7N2ja4EBMIl5tBMSKaEumVF1dzMHLA3qxclPyMX
 
 6. Sorting I
     - Selection sort
+
+------------ Day 4 (22 Dec 2023) --------------
+
+7. Practiced Array Questions
+    - Check if array is sorted?
+    - Remove duplicates from unsorted array
+
+8. Sorting - I
+    - Bubble sort
+
+9. Number System
+    - Decimal to Binary
+    - Binary to Decimal
