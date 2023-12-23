@@ -32,3 +32,10 @@ Topics Covered so far:
 6. Number System
     - Binary to Decimal
     - Decimal to Binary
+
+----------- Day 4 (22 Dec 2023) -----------
+
+7. Practiced Array Questions
+
+8. Sorting - I
+    - Bubble Sort
