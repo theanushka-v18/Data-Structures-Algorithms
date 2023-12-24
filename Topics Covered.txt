@@ -39,3 +39,11 @@ Topics Covered so far:
 
 8. Sorting - I
     - Bubble Sort
+
+----------- Day 5 (23 Dec 2023) -----------
+
+9. Sorting - I
+    - Insertion sort
+
+10. Intro to Binary Search
+    - Binary Search 
