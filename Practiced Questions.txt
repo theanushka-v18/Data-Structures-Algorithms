@@ -59,3 +59,19 @@ https://docs.google.com/spreadsheets/d/1k7N2ja4EBMIl5tBMSKaEumVF1dzMHLA3qxclPyMX
 9. Number System
     - Decimal to Binary
     - Binary to Decimal
+
+------------ Day 5 (23 Dec 2023) --------------
+
+10. Sorting - I
+    - Insertion sort
+
+11. Binary Search code
+
+12. Basic Maths Questions
+    - Add Digits
+    - Leap Year
+    - Reverse Integer
+    - Power of 2
+    - Square of x
+    - Check Palindrome or not
+    - Convert 'a' to 'A'
