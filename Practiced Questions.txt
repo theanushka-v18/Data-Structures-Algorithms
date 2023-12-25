@@ -75,3 +75,20 @@ https://docs.google.com/spreadsheets/d/1k7N2ja4EBMIl5tBMSKaEumVF1dzMHLA3qxclPyMX
     - Square of x
     - Check Palindrome or not
     - Convert 'a' to 'A'
+
+------------ Day 6 (24 Dec 2023) --------------
+
+13. Practiced Array questions
+    - Value equal to index value
+    - Palindromic array
+    - Array Subset of another array
+    - Wave array    
+    - Leaders in an array
+    - Searching in an array where adjacent differ by at most k
+
+14. Binary Search questions
+    - Find first and last index of element
+    - Search insert position
+    - Number of Occurrence of x
+    - Bitonic Point
+    - Find Peak Element
