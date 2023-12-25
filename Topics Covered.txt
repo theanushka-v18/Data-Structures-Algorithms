@@ -47,3 +47,9 @@ Topics Covered so far:
 
 10. Intro to Binary Search
     - Binary Search 
+
+----------- Day 6 (24 Dec 2023) -----------
+
+11. Maths for DSA
+    - Number system conversion
+    - Bitwise operators
