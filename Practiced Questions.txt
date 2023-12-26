@@ -92,3 +92,7 @@ https://docs.google.com/spreadsheets/d/1k7N2ja4EBMIl5tBMSKaEumVF1dzMHLA3qxclPyMX
     - Number of Occurrence of x
     - Bitonic Point
     - Find Peak Element
+
+----------- Day 7 (25 Dec 2023) -----------
+
+11. Maths for DSA
