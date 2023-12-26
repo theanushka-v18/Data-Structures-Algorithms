@@ -53,3 +53,7 @@ Topics Covered so far:
 11. Maths for DSA
     - Number system conversion
     - Bitwise operators
+
+----------- Day 7 (25 Dec 2023) -----------
+
+11. Maths for DSA
