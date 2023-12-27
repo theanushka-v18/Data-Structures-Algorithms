@@ -27,12 +27,15 @@ https://docs.google.com/spreadsheets/d/1k7N2ja4EBMIl5tBMSKaEumVF1dzMHLA3qxclPyMX
 
 4. Patterns 3 - (which Patterns? can check in the above mentioned sheet)
 
+<<<<<<< HEAD
 ------------ Day 2 (20 Dec 2023) --------------
 
 3. Patterns 2 - (which Patterns? can Check in the above mentioned sheet)
 
 4. Patterns 3 - (which Patterns? can check in the above mentioned sheet)
 
+=======
+>>>>>>> f1b4c3891a208513bafb1cccdcb6dc870585fd6c
 ------------ Day 3 (21 Dec 2023) --------------
 
 5. Practiced Array Questions
@@ -101,4 +104,8 @@ https://docs.google.com/spreadsheets/d/1k7N2ja4EBMIl5tBMSKaEumVF1dzMHLA3qxclPyMX
 
 ----------- Day 7 (25 Dec 2023) -----------
 
+<<<<<<< HEAD
 11. Maths for DSA
+=======
+11. Maths for DSA
+>>>>>>> f1b4c3891a208513bafb1cccdcb6dc870585fd6c
