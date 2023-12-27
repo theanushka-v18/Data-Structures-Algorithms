@@ -26,3 +26,79 @@ https://docs.google.com/spreadsheets/d/1k7N2ja4EBMIl5tBMSKaEumVF1dzMHLA3qxclPyMX
 3. Patterns 2 - (which Patterns? can Check in the above mentioned sheet)
 
 4. Patterns 3 - (which Patterns? can check in the above mentioned sheet)
+
+------------ Day 2 (20 Dec 2023) --------------
+
+3. Patterns 2 - (which Patterns? can Check in the above mentioned sheet)
+
+4. Patterns 3 - (which Patterns? can check in the above mentioned sheet)
+
+------------ Day 3 (21 Dec 2023) --------------
+
+5. Practiced Array Questions
+    - Print all elements of the array
+    - Search element in an array
+    - Find largest & smallest element in an array
+    - Sum of all elements of the array
+    - Find second largest & second smallest element in an array
+    - Reverse array
+    - Missing number
+    - Cyclically rotate an array by one
+    - Last index of one
+    - Product of maximum in first array and minimum in second
+    - Index of first 1 in a sorted array of 0s and 1s
+    - Find the fine
+    - Fighting the darkness
+
+6. Sorting I
+    - Selection sort
+
+------------ Day 4 (22 Dec 2023) --------------
+
+7. Practiced Array Questions
+    - Check if array is sorted?
+    - Remove duplicates from unsorted array
+
+8. Sorting - I
+    - Bubble sort
+
+9. Number System
+    - Decimal to Binary
+    - Binary to Decimal
+
+------------ Day 5 (23 Dec 2023) --------------
+
+10. Sorting - I
+    - Insertion sort
+
+11. Binary Search code
+
+12. Basic Maths Questions
+    - Add Digits
+    - Leap Year
+    - Reverse Integer
+    - Power of 2
+    - Square of x
+    - Check Palindrome or not
+    - Convert 'a' to 'A'
+
+------------ Day 6 (24 Dec 2023) --------------
+
+13. Practiced Array questions
+    - Value equal to index value
+    - Palindromic array
+    - Array Subset of another array
+    - Wave array    
+    - Leaders in an array
+    - Searching in an array where adjacent differ by at most k
+
+14. Binary Search questions
+    - Find first and last index of element
+    - Search insert position
+    - Number of Occurrence of x
+    - Bitonic Point
+    - Find Peak Element
+
+----------- Day 7 (25 Dec 2023) -----------
+
+11. Maths for DSA
